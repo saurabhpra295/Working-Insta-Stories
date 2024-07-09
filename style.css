@@ -20,9 +20,6 @@ body {
   font-family: montserrat;
   position: relative;
   display: flex;
-  /* justify-content: ; */
-  /* align-items: center; */
-  /* overflow: hidden; */
 }
 .story {
   display: none;
